@@ -1,3 +1,23 @@
 
 .env
->>>>>>> 87496c8ebff5e0145f51e243963bbae709425a1d
+
+.vercel
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+build
+
+node_modules
+package-lock.json
+npm-shrinkwrap.json
+*.log
+*.gz

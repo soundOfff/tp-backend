@@ -2,9 +2,9 @@
   "name": "Chat app",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon api/index.js"
   },
   "keywords": [],
   "author": "",
